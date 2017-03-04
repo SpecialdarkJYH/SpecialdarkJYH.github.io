@@ -1,6 +1,5 @@
 SpecialdarkJYH.github.io
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -8,7 +7,7 @@ SpecialdarkJYH.github.io
 </head>
 <body>
 
-<iframe src="http://specialdark.tistory.com">
+<iframe width="100%" height="100%" src="http://specialdark.tistory.com">
 
 </iframe>
 
