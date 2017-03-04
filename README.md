@@ -1,4 +1,3 @@
-# SpecialdarkJYH.github.io
 <!DOCTYPE html>
 <html>
 <head>
