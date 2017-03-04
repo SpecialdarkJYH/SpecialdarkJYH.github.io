@@ -6,11 +6,7 @@ SpecialdarkJYH.github.io
 
 </head>
 <body>
-
-<iframe width="100%" height="100%" src="http://specialdark.tistory.com">
-
-</iframe>
-
+<object style="width: 900px; height: 1000px" data="http://specialdark.tistory.com"></object>
 </body>
 </html>
 
