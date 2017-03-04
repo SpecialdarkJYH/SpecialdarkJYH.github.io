@@ -6,7 +6,7 @@ SpecialdarkJYH.github.io
 
 </head>
 <body>
-<object style="width: 1000px height: 1000px" data="https://specialdark.tistory.com/"></object>
+<object style="width: 100% height: 1080px" data="https://specialdark.tistory.com/"></object>
 </body>
 </html>
 
