@@ -1,3 +1,18 @@
 SpecialdarkJYH.github.io
 
-http://specialdark.tistory.com
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+
+</head>
+<body>
+
+<iframe src="http://specialdark.tistory.com">
+
+</iframe>
+
+</body>
+</html>
+
+
